@@ -1,0 +1,3 @@
+fpt\aptech\models\NewsDAO.class
+fpt\aptech\models\News.class
+fpt\aptech\controller\NewsServlet.class
